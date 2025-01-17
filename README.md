@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu150](https://github.com/Priyanshu150)
 
-- 💬 Ask me about **Data Structures and algorithms**
+- 💬 Ask me about **DSA, Front-end, Back-end, Databases, System Design, Full-Stack, OOPs, Cricket**
 
 - 📫 How to reach me **priyanshukumarsingh1502@gmail.com**
 
