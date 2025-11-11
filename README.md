@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi There, I'm Priyanshu Kumar Singh 👋 </h1>
+<h3 align="center">Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 I’m currently learning **Javascript**
