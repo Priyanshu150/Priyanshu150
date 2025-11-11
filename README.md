@@ -2,17 +2,17 @@
 <h3 align="center">Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 Currently I'm working at **Hitachi Digital Service**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu150](https://github.com/Priyanshu150)
 
-- 💬 Ask me about **DSA, Front-end, Back-end, Databases, System Design, Full-Stack, OOPs, Cricket**
+- 💬 Ask me about **DSA, Front-end, Back-end, Databases, System Design, Coding, OOPs, Sprots**
 
 - 📫 How to reach me **priyanshukumarsingh1502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshu kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/PriyanshuSingh15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar singh" height="30" width="40" /></a>
 <a href="https://fb.com/priyanshu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/priyanshukumars3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/priyanshukumars3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/priyanshu_kumar_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshu_kumar_singh/" height="30" width="40" /></a>
