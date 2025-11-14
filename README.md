@@ -6,17 +6,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu150](https://github.com/Priyanshu150)
 
-- 💬 Ask me about **DSA, Front-end, Back-end, Databases, System Design, Coding, OOPs, Sprots**
+- 💬 Ask me about **Low-level & High-level System Design, Front-end & Back-end Development, Databases, Coding, Data Structures & Algorithms, and Cricket**.
 
 - 📫 How to reach me **priyanshukumarsingh1502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/PriyanshuSingh15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kumar singh" height="30" width="40" /></a>
-<a href="https://fb.com/priyanshu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/priyanshukumars3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/priyanshukumars3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/priyanshu_kumar_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshu_kumar_singh/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/priyanshukumarsingh1502/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/priyanshukumarsingh1502/practice" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/PriyanshuSingh15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GitHub Icon" height="30" width="40" /></a>
+<a href="mailto:priyanshukumarsingh1502@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail icon" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Priyanshu_Kumar_Singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode icon" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/priyanshukumarsingh1502/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GfG icon" height="30" width="40" /></a>
+<a href="https://fb.com/priyanshu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Icon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
